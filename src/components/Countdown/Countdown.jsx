@@ -44,12 +44,12 @@ function Countdown() {
         subTitle: '僅此一回 錯過不再-',
       },
       {
-        endTime: '2026-01-30 12:00:00',
+        endTime: '2026-03-30 12:00:00',
         titleText: '超早鳥限量組 ',
         subTitle: '手刀下單結帳現折$3000',
       },
       {
-        endTime: '2026-02-28 11:59:59',
+        endTime: '2026-06-30 11:59:59',
         titleText: '超早鳥限量組，優惠延燒中',
         subTitle: '手刀下單結帳現折$2400',
       },
